@@ -1,0 +1,20 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 临时文件
+*.tmp
+~$*
+
+# 不建议入库的大体积 / 版权敏感文件(请改用网盘链接)
+*.pdf
+*.zip
+*.rar
+*.7z
+*.djvu
